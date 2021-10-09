@@ -1,0 +1,11 @@
+{
+  "name": "@lerna-01/validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test validator"
+  },
+  "author": "",
+  "license": "ISC"
+}
